@@ -1,0 +1,128 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Kiran1689",
+      "name": "Kiran Naragund",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75929997?v=4",
+      "profile": "https://kiran1689.github.io",
+      "contributions": [
+        "code",
+        "design",
+        "doc",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "DevRohit06",
+      "name": "Rohit Kushwaha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66678395?v=4",
+      "profile": "http://rohitk06.site",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hariprasd",
+      "name": "Hari Prasad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75234157?v=4",
+      "profile": "https://hariprasd.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "vishwasnavadak",
+      "name": "Vishwasa Navada K",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13111030?v=4",
+      "profile": "http://vishwas.tech",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "vikas-ukani",
+      "name": "Vikas Ukani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57585690?v=4",
+      "profile": "https://vikas-ukani.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mrepol742",
+      "name": "Melvin Jones Repol",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62317165?v=4",
+      "profile": "https://mrepol742.github.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Nix-code",
+      "name": "Nishant Banjade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44603953?v=4",
+      "profile": "http://www.nishantbanjade.com.np",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Nailheart",
+      "name": "Yaroslav Lebedenko",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48065097?v=4",
+      "profile": "https://portfolio-nailheart.vercel.app/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "a1603169",
+      "name": "Seunghun Bang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77614387?v=4",
+      "profile": "https://seunghun-website.vercel.app/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "4Furki4",
+      "name": "Furkan ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84590614?v=4",
+      "profile": "https://furki.vercel.app/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sirLisko",
+      "name": "Luca Lischetti",
+      "avatar_url": "https://avatars.githubusercontent.com/u/435399?v=4",
+      "profile": "https://github.com/sirLisko",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dimitrisraptis96",
+      "name": "Jim Raptis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24657754?v=4",
+      "profile": "https://www.jimraptis.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Awesome-Dev-Portfolios",
+  "projectOwner": "Kiran1689"
+}

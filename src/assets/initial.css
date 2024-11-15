@@ -1,0 +1,20 @@
+:root {
+    --bg-black: black;
+    --bg-white: white;
+    --bg-blue: blue;
+    --bg-green: rgb(71, 226, 71);
+    --bg-yellow: yellow;
+    --bg-brown: brown;
+    --bg-red: red;
+    --bg-purple: purple;
+    --bg-pink: pink;
+    --bg-grey: grey;
+    --bg-greyblue: rgb(68, 102, 255);
+    --bg-color: #443c82;
+    --bg-title: 40px;
+    --md-title: 35px;
+    --sm-title: 30px;
+    --cm-ctn: 24px;
+    --bx-title:20px;
+    --bx-ctn:14px;
+}
